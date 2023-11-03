@@ -35,3 +35,7 @@ git checkout commit history checksum (This will help in viewing the changes done
 git checkout main (This comes back to the main head after viewing the change done in a previous commit)
 
 git revert commit checksum (Reverts the commit done there)
+
+git commit must be present tense
+describes what change has been done
+max of 50 characters
