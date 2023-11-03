@@ -5,4 +5,6 @@ New Line
 and another addition
 Extra
 
-a
+We are learning git!
+
+Changing
