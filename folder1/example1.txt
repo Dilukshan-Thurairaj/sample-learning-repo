@@ -30,3 +30,5 @@ Learning undo chnages
 git restore --staged . (Removes files from staging area)
 
 git restore file name (Removes changes from working directory)
+
+git checkout commit history checksum (This will help in viewing the changes done in the past commit)
