@@ -10,3 +10,11 @@ We are learning git!
 Changing
 
 Add
+
+git show (commit history checksum)
+
+git log -p (Shows the log history with changes done for each push)
+
+git log --graph (Shows a visualization of the branches)
+
+git log -grep='Give the name or word in the commit phrase' (Used to find the commit with the word)
