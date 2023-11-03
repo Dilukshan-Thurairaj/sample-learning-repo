@@ -24,3 +24,7 @@ git mv example.txt example2.txt (Used to chnage file name)
 Git doesn't keep track of empty folder
 
 .gitkeep file is added to the empty folder so git keeps track of the folder
+
+Learning undo chnages
+
+git restore --staged . (Removes files from staging area)
