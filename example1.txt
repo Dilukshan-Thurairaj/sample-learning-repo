@@ -18,3 +18,5 @@ git log -p (Shows the log history with changes done for each push)
 git log --graph (Shows a visualization of the branches)
 
 git log -grep='Give the name or word in the commit phrase' (Used to find the commit with the word)
+
+git mv example.txt example2.txt (Used to chnage file name)
